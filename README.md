@@ -13,11 +13,11 @@ References
 ---
 
 ### Pursuing a PhD
-- [Notes On The PhD Degree](https://www.cs.purdue.edu/homes/dec/essay.phd.html) **Douglas E. Comer** *Purdue University *
-  - About the purpose of pursuing a PhD, what it takes and how it works.
+- [Notes On The PhD Degree](https://www.cs.purdue.edu/homes/dec/essay.phd.html) **Douglas E. Comer** *Purdue University*
+  - "These notes provide basic information about the purpose of a Ph.D. program in an attempt to help students decide whether to pursue a Ph.D. degree."
 
 - [Everything I wanted to know about C.S. graduate school at the beginning but didn't learn until later.](http://www.cs.virginia.edu/~robins/PhD.html) **Ronald T. Azuma**
-  - A computer science graduate school survival guide, intended for prospective or novice graduate students. This guide describes what I wish I had known at the start of graduate school but had to learn the hard way instead. It focuses on mental toughness and the skills a graduate student needs. The guide also discusses finding a job after completing the Ph.D. and points to many other related web pages.
+  - "A computer science graduate school survival guide, intended for prospective or novice graduate students. This guide describes what I wish I had known at the start of graduate school but had to learn the hard way instead. It focuses on mental toughness and the skills a graduate student needs. The guide also discusses finding a job after completing the Ph.D. and points to many other related web pages.""
 
 -------
 
