@@ -22,7 +22,7 @@ References
 -------
 
 ### About Science/Research
-- [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) **Richard Hamming** *Purdue University *
+- [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) **Richard Hamming** *Bell Communications Research*
   - Transcription of the Bell Communications Research Colloquium Seminar. "This talk centered on Hamming's observations and research on the question 'Why do so few scientists make significant contributions and so many are forgotten in the long run?'"
 
 -----
