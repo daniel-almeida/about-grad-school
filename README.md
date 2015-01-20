@@ -18,6 +18,10 @@ References
 
 - [Everything I wanted to know about C.S. graduate school at the beginning but didn't learn until later.](http://www.cs.virginia.edu/~robins/PhD.html) **Ronald T. Azuma**
   - "A computer science graduate school survival guide, intended for prospective or novice graduate students. This guide describes what I wish I had known at the start of graduate school but had to learn the hard way instead. It focuses on mental toughness and the skills a graduate student needs. The guide also discusses finding a job after completing the Ph.D. and points to many other related web pages.""
+- [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) **Mor Harchol-Balter** *Carnegie Mellon University*
+  - "This document is intended for people applying to Ph.D. programs in computer science or related areas. The document is informal in nature and is meant to express only the opinions of the author. The author is a professor of computer science at CMU, and has been involved in the Ph.D. admissions process at CMU, U.C. Berkeley, and MIT."
+- [CS Grad School Series](http://jxyzabc.blogspot.com.br/2008/08/cs-grad-school-part-1-deciding-to-apply.html) **Jean Yang, PhD Candidate** *MIT*
+  - "As a result of talking to various people (/undergraduate seniors) who are figuring out what to do with their lives, I have made the arbitrary, unilateral decision that I will write a series of blog posts at you about how, why, where, etc. etc. etc. I applied to grad school."
 
 -------
 
