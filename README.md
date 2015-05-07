@@ -26,6 +26,10 @@ References
   - "Every year I am approached by students asking about grad school in Computer Science. I generally sit down with them for an hour or so and go over all of the details of why you should go, what the tradeoffs are, where you should apply, what it takes to get in, and so forth. I figured it would be a good idea to write some of this advice up in a blog post so I can capture it in a more permanent form. In this post, I will talk about why to do a PhD in Computer Science, and why not to do a PhD."
 - [Why choose a Ph.D. in CS?](http://cra.org/uploads/documents/resources/student/why.cs_.phd_.pdf) **CRA (Computing Research Association)**
   - "A set of slides on Why choose a Ph.D. in CS"
+- [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) **Matt Might, Associate Professor** *University of Utah*
+- [5+5 Commandments of a Ph.D.](http://matt.might.net/articles/phd-commandments/) **Matt Might, Associate Professor** *University of Utah*
+- [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/) **Matt Might, Associate Professor** *University of Utah*
+- [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) **Matt Might, Associate Professor** *University of Utah*
 
 -------
 
