@@ -30,6 +30,7 @@ References
 - [5+5 Commandments of a Ph.D.](http://matt.might.net/articles/phd-commandments/) **Matt Might, Associate Professor** *University of Utah*
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/) **Matt Might, Associate Professor** *University of Utah*
 - [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) **Matt Might, Associate Professor** *University of Utah*
+- [The Life of a Graduate Student](http://www.cs.umd.edu/~oleary/gradstudy/node5.html) **Dianne Prost O'Leary, Distinguished University Professor Emerita** *University of Maryland College Park*
 
 -------
 
