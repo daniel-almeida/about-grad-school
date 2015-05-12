@@ -31,6 +31,7 @@ References
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/) **Matt Might, Associate Professor** *University of Utah*
 - [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) **Matt Might, Associate Professor** *University of Utah*
 - [GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL](https://www.cs.umd.edu/users/oleary/gradstudy/gradstudy.html) **Dianne Prost O'Leary, Distinguished University Professor Emerita** *University of Maryland College Park*
+- [The N=1 guide to grad school (and hopefully, knowledge work)](http://marcua.net/writing/gradschool-guide/) **Adam Marcus, PhD** *MIT*
 
 -------
 
