@@ -34,7 +34,7 @@ References
 - [The N=1 guide to grad school (and hopefully, knowledge work)](http://marcua.net/writing/gradschool-guide/) **Adam Marcus, PhD** *MIT*
 - [The Ph.D Experience](http://cseweb.ucsd.edu/~mihir/phd.html) **Mihir Bellare , Professor** *UC San Diego*
 - [How to do Research At the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) **A whole lot of people at MIT. Edited by David Chapman** *MIT*
-  - "This document presumptuously purports to explain how to do research. We give heuristics that may be useful in picking up the specific skills needed for research (reading, writing, programming) and for understanding and enjoying the process itself (methodology, topic and advisor selection, and emotional factors)."
+  - "This document presumptuously purports to explain how to do research. We give heuristics that may be useful in picking up the specific skills needed for research (reading, writing, programming) and for understanding and enjoying the process itself (methodology, topic and advisor selection, and emotional factors)"
 -------
 
 ### About Science/Research
