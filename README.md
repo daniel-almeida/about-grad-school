@@ -13,6 +13,10 @@ References
 ---
 
 ### Pursuing a PhD
+- [Should I Get a Ph.D.?](http://shouldigetaphd.com/) **Tim Hopper**
+  - A series of interviews with Professors and PhD students/graduates.
+- [I Loved Graduate School](http://www.bailis.org/blog/i-loved-graduate-school/) **Peter Bailis** *Stanford Computer Science*
+  - "It’s increasingly in vogue to complain about graduate school and the state of higher education. Now that I’ve officially graduated, I want to come out and say, simply: I loved graduate school. Pursuing a Ph.D. was one of the best decisions I’ve ever made. Here’s why:"
 - [Notes On The PhD Degree](https://www.cs.purdue.edu/homes/dec/essay.phd.html) **Douglas E. Comer** *Purdue University*
   - "These notes provide basic information about the purpose of a Ph.D. program in an attempt to help students decide whether to pursue a Ph.D. degree."
 
